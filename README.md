@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Gabriel!
+I'm a data science enthusiast currently diving deep into the world of data transformation, analysis, and machine learning. With a background in engineering and computer science, I'm passionate about uncovering insights from data and making impactful contributions.
 
-<!--
-**GabrielFersPin/GabrielFersPin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm Working On
+- 📊 Building a sentiment analysis project to analyze reviews of coworking spaces in Spain
+- 🕸️ Web scraping project completed in university, now being refined for GitHub
 
-Here are some ideas to get you started:
+## Skills and Tools
+- **Languages**: Python, SQL
+- **Libraries**: NLTK, Pandas, NumPy, Matplotlib
+- **Tools**: Power BI, Jupyter Notebooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- 💼 Transition into a data science role
+- 📈 Build a portfolio of projects that showcase my analytical and technical skills
+- 🛠️ Continue developing expertise in machine learning and big data analysis
+
+## Connect with Me
+[LinkedIn](www.linkedin.com/in/gabriel-fernandes-pinheiro-728628248)
+

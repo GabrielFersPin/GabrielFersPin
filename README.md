@@ -3,7 +3,7 @@ I'm a data science enthusiast currently diving deep into the world of data trans
 
 ## What I'm Working On
 - 📊 Building a sentiment analysis project to analyze reviews of coworking spaces in Spain
-- 🕸️ Web scraping project completed in university, now being refined for GitHub
+- 🕸️ Web scraping projects make in the university, now being refined for GitHub
 
 ## Skills and Tools
 - **Languages**: Python, SQL

@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Gabriel!
-I'm a data science enthusiast currently diving deep into the world of data transformation, analysis, and machine learning. With a background in engineering and computer science, I'm passionate about uncovering insights from data and making impactful contributions.
+I'm a data science enthusiast currently diving deep into the world of data transformation, analysis, and machine learning. With a background in engineering, I'm passionate about uncovering insights from data and making impactful contributions.
 
 ## What I'm Working On
 - 📊 Building a sentiment analysis project to analyze reviews of coworking spaces in Spain

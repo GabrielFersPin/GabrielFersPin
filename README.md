@@ -7,6 +7,7 @@ I'm a data science enthusiast currently diving deep into the world of data trans
 
 ## What I'm Working On
 - Coworking Space recomendation system.
+- Learning About Deep Learning.
 
 ## Skills and Tools
 - **Languages**: Python, SQL

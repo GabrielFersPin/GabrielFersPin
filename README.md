@@ -40,5 +40,5 @@ On a mission to bridge the gap between robust cloud architectures and real-world
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-pinheiro-728628248)
 - 🌱 [Digital Garden / Open-Source Second Brain](https://digitalgarden.gabrielfelipef-23.workers.dev/)
 - 🌐 [Portfolio Website](https://gabriel-fernandes-data.webflow.io)
-- 🕹️ [InnerLevel Live Demo](https://innerlevel.netlify.app)
+- 🕹️ [InnerLevel Live Demo](https://inner-level-app.vercel.app/)
 
